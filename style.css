@@ -14,7 +14,7 @@ main{
     text-align: left;
 }
 main h1{
-    padding: 20px;
+    padding: 0 20px;
 }
 footer{
     text-align: center;
@@ -51,4 +51,23 @@ footer:hover{
     background-size: cover;
 
     background-attachment: fixed;
+}
+.circle{
+    margin: 0% auto;
+    width: 800px;
+    height: 800px;
+    border-radius: 50%;
+    text-align: center;
+}
+.circle2{
+    margin: 0% 25%;
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+    text-align: center;
+    padding: 10%;
+}
+h3{
+    padding: 45% 0%;
+    color: white;
 }
